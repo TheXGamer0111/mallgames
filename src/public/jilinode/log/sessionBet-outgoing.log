@@ -1,0 +1,4 @@
+{"body":{"betAmount":2000,"preserve":0,"sessionId":305522486224926,"turnover":0,"type":1,"userId":"0000000000","winloseAmount":0},"level":"info","message":"Incoming request","method":"POST","url":"/"}
+{"body":"{\"newBalance\":1542000}","level":"info","message":"Outgoing response","statusCode":200}
+{"body":{"betAmount":0,"preserve":0,"sessionId":305522486224926,"turnover":2000,"type":2,"userId":"0000000000","winloseAmount":2080},"level":"info","message":"Incoming request","method":"POST","url":"/"}
+{"body":"{\"newBalance\":1544080}","level":"info","message":"Outgoing response","statusCode":200}
